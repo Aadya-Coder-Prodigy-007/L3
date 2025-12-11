@@ -1,0 +1,8 @@
+number=123
+print("number is", type(number))
+decimal=12.34
+print("decimal is", type(decimal))
+word="hello"
+print("word is", type(word))
+boolean=False
+print("boolean is",type (boolean))
